@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My projects on Emmanuel Kamara</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in My projects on Emmanuel Kamara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Mar 2019 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Political alignment and beliefs about women in politics </title>
+      <link>https://example.com/post/chapter-6/</link>
+      <pubDate>Mon, 14 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-6/</guid>
+      <description>The last four decades have seen vital changes in women’s political participation and in the degree to which gender vividly restricts women’s opportunities in the public sector (governance). Insights gained from the general social survey (GSS, fepol 1974-2018)) shows a yearly shift in the belief about whether men are more suited in politics than women. However, since 2000-2018, a significant percentage of people believe that men are not more suited for politics than women.</description>
+    </item>
+    
+    <item>
+      <title>Developing versus developed countries</title>
+      <link>https://example.com/post/chapter-5/</link>
+      <pubDate>Sun, 13 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-5/</guid>
+      <description>The United nations have divided countries into two major categories, which are developed and developing countries. The classification of countries is based on economic standing, standard of living, per capita income and other factors. A country can be regarded as a developed country if it possesses great technological infrastructure, a booming economy, etc. On the other hand, developing countries are those countries with poor economic standing, low standards of living, poor technological infrastructures and many more.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Diabetes predictor. </title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Mon, 09 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>Diabetes Mellitus is among critical diseases and lots of people are suffering from this disease. Age, obesity, lack of exercise, hereditary diabetes, living style, bad diet, high blood pressure, etc. can cause Diabetes Mellitus. People having diabetes have high risk of diseases like heart disease, kidney disease, stroke, eye problem, nerve damage, etc. Current practice in hospital is to collect required information for diabetes diagnosis through various tests and appropriate treatment is provided based on diagnosis.</description>
+    </item>
+    
+  </channel>
+</rss>
